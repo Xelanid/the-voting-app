@@ -1,4 +1,5 @@
 **The voting app**
+=====================
 
 The project will consist of two parts:
 
