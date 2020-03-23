@@ -1,3 +1,5 @@
+**The voting app**
+
 The project will consist of two parts:
 
 A public site that displays voting results to users and allows them to vote.
